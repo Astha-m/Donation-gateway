@@ -106,3 +106,8 @@ nav{
     color: rgb(245, 155, 20);
     transition: 300ms ease;
 }
+.donate-button:hover{
+    background-color: rgb(211, 243, 94);
+    color:rgb(245, 155, 20);
+    transition: 300ms ease;
+}
